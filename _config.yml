@@ -2,4 +2,4 @@ theme: cayman
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Property prospect lists for Florida counties.]
-description: [Properties in distress with high propects of becoming available for sale.]
+description: [v0001: Properties in distress with high propects of becoming available for sale.]
